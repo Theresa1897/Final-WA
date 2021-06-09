@@ -67,7 +67,7 @@ function displayFahrenheitTemperature(event) {
   temperatureElement.innerHTML = Math.round(fahrenheiTemperature);
 }
 
-function displayCelsiusTemperture(event) {
+function displayCelsiusTemperature(event) {
   event.preventDefault();
   celsiusLink.classList.add("active");
   fahrenheitLink.classList.remove("active");
