@@ -89,7 +89,8 @@ li:first-letter {
 }
 
 .weather-forecast-temperature-min {
-  opacity: 0.5;
+  color: #25518b;
+  opacity: 1;
 }
 
 .weather-forecast-temperatures {
